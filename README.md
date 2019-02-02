@@ -2,7 +2,7 @@
 "Open your shop." I said. "I wanna mod it."
 
 ## What?
-This is a mod of OSC to make everything dark, as to make a dark mode.
+This is a mod of the Open Shop Channel to make a dark mode.
 
 ## Why?
 idk honestly
@@ -13,5 +13,5 @@ changing a .php file
 ## Who?
 me
 
-### go to the osc discord...
+### go to the ~~osu!~~ osc discord...
 https://discord.gg/by6mR5N
