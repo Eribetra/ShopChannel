@@ -1,28 +1,17 @@
 # ShopChannel ![https://discord.gg/by6mR5N](https://img.shields.io/discord/426478571389976577.svg) ![https://github.com/OpenShopChannel/ShopChannel/blob/master/LICENSE.md](https://img.shields.io/badge/Open%20Source-AGPL--3.0-lightgrey.svg)
-"Open your shop." We said. "Stop having it be closed."
+"Open your shop." I said. "I wanna mod it."
 
 ## What?
-The Open Shop Channel is an alternative to The Wii Shop Channel and Homebrew Downloaders for the Nintendo Wii.
+This is a mod of OSC to make everything dark, as to make a dark mode.
 
 ## Why?
-With the Wii Shop Channel's closure in 2019 and Homebrew Repo services becoming outdated, The Open Shop Channel's purpose is to give both Homebrew Developers and Users a more comfortable experience for downloading and installing homebrew.
-
-## Contributions
-Please test changes before pulling, and add screenshots to issues and pull requests.
+idk honestly
 
 ## How?
-We still need to figure out which delivery method is best. So far we have a WAD Patcher and/or private distribution of OSC WAD, but we want to make sure our service is both easily and legally available.
+changing a .php file
 
 ## Who?
-We are a group of homebrew enthusiasts that want to provide the easiest way to get homebrew in the safest way possible.
-The team so far consists of:
-- darky
-- dhtdht020
-- KcrPL
-- Spotlight
-- Larsenv
-- CornierKhan1
-- Billy
+me
 
-### Keep in contact...
+### go to the osc discord...
 https://discord.gg/by6mR5N
