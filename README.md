@@ -3,7 +3,7 @@
 
 ## What?
 This is a dark theme for the Open Shop Channel.
-https://imgur.com/RlQBbsI
+![alt text](https://i.imgur.com/RlQBbsI.png)
 
 ## Why?
 Because it looks nice? Because it reduces screen insomnia? Your guess.
